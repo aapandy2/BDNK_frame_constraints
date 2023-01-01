@@ -7,4 +7,4 @@ The BDNK formalism [1] defines a relativistic viscous fluid theory which has bee
 
 [1] F. S. Bemfica, M. M. Disconzi, and J. Noronha, Phys. Rev. X 12, 021044 (2022), 2009.11388.
 
-[2] A. Pandya, E. R. Most, and F. Pretorius, https://arxiv.org/abs/2209.09265
+[2] A. Pandya, E. R. Most, and F. Pretorius, Phys. Rev. D 106, 123036 (2022), 2209.09265.
